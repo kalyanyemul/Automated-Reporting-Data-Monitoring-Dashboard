@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "051cad2c-b941-4136-b68b-e9c228d46607",
+		"name": "Reports-Automation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48454069",
+		"_collection_link": "https://kalyanyemul007-254662.postman.co/workspace/Team's-Workspace~307c15f0-8056-4360-8238-8c509dae1f65/collection/48454069-051cad2c-b941-4136-b68b-e9c228d46607?action=share&source=collection_link&creator=48454069"
+	},
+	"item": [
+		{
+			"name": "Report01-Tax",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/reports/tax-report",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"reports",
+						"tax-report"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Report02-Holding",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/reports/holding-report",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"reports",
+						"holding-report"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
