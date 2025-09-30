@@ -125,5 +125,3 @@ The following block diagram illustrates the **end-to-end flow** of our Report Au
 - **Security Enhancements:** Implement **Spring Security** with **JWT authentication** for secure access to APIs and dashboard.  
 
 ---
-<img width="1022" height="2781" alt="image" src="https://github.com/user-attachments/assets/06e8c88c-b60a-49d2-accf-fc79762d99a3" />
-
